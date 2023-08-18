@@ -23,9 +23,9 @@ Follow these steps to get a local copy of the project up and running:
 - [Bootstrap](https://getbootstrap.com/): Used for styling and responsive layout.
 - [Font Awesome](https://fontawesome.com/): Provides icons for the user interface.
 
-6. Submit a pull request.
+## Acknowledgments
 
-## Credits
+- This Website was created as a part of [#100daysofcode] by [Divesh Dhek].
+- Inspiration for this project came from [Source/ Dr. Angela Yu's - web development course on Udemy].
 
-BarkBuddies is created by Divesh Dhek. Feel free to reach out via Twitter @Diveshdhek for any inquiries.
-
+Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
