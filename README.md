@@ -1,7 +1,5 @@
 # PawsMatch - Dog Matchmaking Website
 
-![BarkBuddies](link_to_logo_image)
-
 BarkBuddies is a fun and interactive dog matchmaking website, inspired by Tinder, that helps dogs find their perfect playdate partners. This project is built using HTML, CSS, and Bootstrap to create a visually appealing and user-friendly platform for dog owners to connect and set up playdates for their furry friends.
 
 ## Features
@@ -28,4 +26,11 @@ Follow these steps to get a local copy of the project up and running:
 - This Website was created as a part of [#100daysofcode] by [Divesh Dhek].
 - Inspiration for this project came from [Source/ Dr. Angela Yu's - web development course on Udemy].
 
-Feel free to contact me at [workwithdivesh@gmail.com] for any questions or suggestions.
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
+
+- Email: workwithdivesh@gmail.com
+- LinkedIn: [Divesh Dhek](https://www.linkedin.com/in/diveshdhek1/)
+
